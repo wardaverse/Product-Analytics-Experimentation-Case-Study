@@ -1,4 +1,4 @@
-# Product Analytics Case Study: Funnel Optimization, Retention, Cohort Analysis & A/B Testing
+# Product Analytics & Experimentation Case Study |  Funnel Optimization, Retention, Cohort Analysis & A/B Testing
 
 **Warda Shafiq \| Product Analytics · Data Science · Business
 Intelligence**
