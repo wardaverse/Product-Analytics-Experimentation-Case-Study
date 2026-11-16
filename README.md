@@ -615,7 +615,7 @@ Potential extensions to the analytical framework include:
 Product Analytics \| Data Science \| AI & Technology
 
 LinkedIn: https://www.linkedin.com/in/warda-shafiq-45736038/\
-GitHub: [\[YOUR-GITHUB-USERNAME\]](https://github.com/wardaverse)
+GitHub: https://github.com/wardaverse
 
 *Building data-driven products and translating complex analytical
 insights into measurable business and product outcomes.*
